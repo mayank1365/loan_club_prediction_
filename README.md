@@ -228,20 +228,3 @@ Actual   0 |  934  14601
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-**Mayank Gupta** - [Your Email] - [Your LinkedIn]
-
-Project Link: [https://github.com/yourusername/lending-club-prediction](https://github.com/yourusername/lending-club-prediction)
-
-## 🙏 Acknowledgments
-
-- Lending Club for providing the dataset
-- TensorFlow team for the deep learning framework
-- Scikit-learn for machine learning utilities
-- The open-source community for inspiration and tools
-
----
-
-*This project demonstrates end-to-end machine learning pipeline development for financial risk assessment. The model achieves strong performance but requires careful consideration of business constraints and regulatory requirements before production deployment.*
